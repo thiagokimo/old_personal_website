@@ -1,0 +1,57 @@
+# Site settings
+title:       Thiago Rocha
+email:       kimo@kimo.io
+author:      Thiago Rocha
+description: "Software development, table tennis and progressive rock."
+baseurl:     "http://kimo.io"
+url:         "http://kimo.io"
+
+# Google analytics
+google_analytics: UA-42532741-9
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+show_social_icons:  true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+github_username: thiagokimo
+stackoverflow_id: 609787
+twitter_username:
+facebook_id: thiagokimo
+google_plus_id: +ThiagoRochaKimo
+linkedin_username: thiagokimo
+angellist_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     4
+sass:
+  compressed: true
+gems:
+  - jekyll-sitemap
