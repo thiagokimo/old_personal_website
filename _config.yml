@@ -17,7 +17,7 @@ show_social_icons:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: kimoio
 
 # Social icons
 github_username: thiagokimo
