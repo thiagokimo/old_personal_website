@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Konami Code Installer"
+title: "Konami Code"
 date: 2015-07-26 23:01
 summary: Adding our favorite easter-egg in any Android app.
 ---
