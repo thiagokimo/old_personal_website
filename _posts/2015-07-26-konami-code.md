@@ -30,6 +30,8 @@ It was the easiest part. I showed a custom [AlertDialog](http://developer.androi
 ### How did it end
 Right after finishing I thought "Wouldn't be great if the konami code could be injected into other's people apps?". So, I wrapped up everything in a class with a [builder pattern](https://en.wikipedia.org/wiki/Builder_pattern), I added some methods to let developers customize a thing or two and then...a nerdy library was born \o/
 
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/vIRdoI-V-Pk" frameborder="0" allowfullscreen></iframe></center>
+
 Now developers can easily add this awesome easter-egg into their apps. The instructions are in [this Github repository](https://github.com/thiagokimo/KonamiCode).
 
 Cheers!
