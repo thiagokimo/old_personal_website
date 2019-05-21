@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-Hi! My name is Thiago Rocha. I'm 28 years old and I'm living in [Stockholm](https://en.wikipedia.org/wiki/Stockholm). I was born in Brazil and I have no interest in soccer, beaches and many other things related to our culture. I consider myself a rare kind of brazilian :P
+Hi! My name is Thiago Rocha. I'm 31 years old and I'm living in [Stockholm](https://en.wikipedia.org/wiki/Stockholm). I was born in Brazil and I have no interest in soccer, beaches and many other things related to our culture. I consider myself a rare kind of brazilian :P
 
-I currently work as an Android developer for a startup called [Instabridge](http://lalubema.com/). Besides this I also do "crazy" open-source code for [CodeLogic](http://codelogic.me/); I enjoy practicing serious (and fun) table tennis and I enjoy experimenting sounds with my electric guitar.
+I currently work as an Android developer for [P.F.C](https://getpfc.com/). Besides this I also do "crazy" open-source code for [CodeLogic](http://codelogic.me/); I enjoy practicing serious (and fun) table tennis and I enjoy experimenting sounds with my electric guitar.
 
 I've graduated in Computer Science at [PUC Minas](http://www.pucminas.br/) in 2012 and my favorite topics are **Image Processing**, **Software Architecture** and **Compilers**. I find myself in love when I craft mobile systems (I've been doing it since 2011).
 
